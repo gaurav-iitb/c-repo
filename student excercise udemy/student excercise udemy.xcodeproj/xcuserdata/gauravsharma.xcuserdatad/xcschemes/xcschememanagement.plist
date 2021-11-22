@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Banking System Project.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Reading a file.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>approach 2 student excercise#14.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>24</integer>
+		</dict>
+		<key>average of an array.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>18</integer>
+		</dict>
+		<key>boiler plate.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>31</integer>
+		</dict>
+		<key>change case from U to L.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>19</integer>
+		</dict>
+		<key>checking a string is pallindrome.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
+		<key>checking string for pallindrome ver 2.0.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
+		<key>checking username.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>11</integer>
+		</dict>
+		<key>constructors in inheritance.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>47</integer>
+		</dict>
+		<key>constructors.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>34</integer>
+		</dict>
+		<key>count vowels and words in a string.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
+		<key>count vowels and words version 2.0.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>deep copy constructor.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>16</integer>
+		</dict>
+		<key>displaying digits of a number.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>exception handling constructor.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>41</integer>
+		</dict>
+		<key>excercise 4.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+		<key>find username from email address.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>46</integer>
+		</dict>
+		<key>gcd.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>grocery question helper.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>45</integer>
+		</dict>
+		<key>insertion operator.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
+		<key>length of a string.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>linear search function.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
+		<key>linear search.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>17</integer>
+		</dict>
+		<key>multiplication of two arrays.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
+		</dict>
+		<key>nested classes.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>22</integer>
+		</dict>
+		<key>operator overloading.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>35</integer>
+		</dict>
+		<key>patterns.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>pointer to an object.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>polymorphism.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>30</integer>
+		</dict>
+		<key>practice student excercise #15.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>practicing a class.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>recursive functions.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
+		<key>s.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>scope resolution operator.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>21</integer>
+		</dict>
+		<key>serialization.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>49</integer>
+		</dict>
+		<key>static number classes.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>student database create roll no.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>20</integer>
+		</dict>
+		<key>student excercise # 9.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>student excercise #10.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>32</integer>
+		</dict>
+		<key>student excercise #11.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
+		</dict>
+		<key>student excercise #13.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>10</integer>
+		</dict>
+		<key>student excercise #14 grocery shop.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
+		<key>student excercise #19.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>26</integer>
+		</dict>
+		<key>student excercise #9.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>9</integer>
+		</dict>
+		<key>student excercise udemy copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+		<key>student excercise udemy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>12</integer>
+		</dict>
+		<key>student excercise#11.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>33</integer>
+		</dict>
+		<key>sum of all arrays.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>25</integer>
+		</dict>
+		<key>template function and classes stack code.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>23</integer>
+		</dict>
+		<key>throw and catch functions.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>44</integer>
+		</dict>
+		<key>timepaas.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>50</integer>
+		</dict>
+		<key>trial code.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>48</integer>
+		</dict>
+		<key>writing a file.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>

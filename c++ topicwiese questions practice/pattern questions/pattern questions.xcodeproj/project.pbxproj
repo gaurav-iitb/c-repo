@@ -1,0 +1,2546 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5A0A778D272ADC5E00086C1B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A0A778C272ADC5E00086C1B /* main.cpp */; };
+		5A0A7798272AE2CA00086C1B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A0A7797272AE2CA00086C1B /* main.cpp */; };
+		5A0A77A3272AE6AF00086C1B /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A0A77A2272AE6AF00086C1B /* main.cpp */; };
+		5A42DCD62729C6E700D55E9A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A42DCD52729C6E700D55E9A /* main.cpp */; };
+		5A7E4B90272C120300BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4B8F272C120300BCB7EE /* main.cpp */; };
+		5A7E4B9B272C196200BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4B9A272C196200BCB7EE /* main.cpp */; };
+		5A7E4BA6272C1B8800BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BA5272C1B8800BCB7EE /* main.cpp */; };
+		5A7E4BB1272C1D0900BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BB0272C1D0900BCB7EE /* main.cpp */; };
+		5A7E4BBC272C21BF00BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BBB272C21BF00BCB7EE /* main.cpp */; };
+		5A7E4BC7272C239200BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BC6272C239200BCB7EE /* main.cpp */; };
+		5A7E4BD2272C241C00BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BD1272C241C00BCB7EE /* main.cpp */; };
+		5A7E4BE8272C2E1500BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BE7272C2E1500BCB7EE /* main.cpp */; };
+		5A7E4BF3272C2F6000BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BF2272C2F6000BCB7EE /* main.cpp */; };
+		5A7E4BFE272C45E100BCB7EE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A7E4BFD272C45E100BCB7EE /* main.cpp */; };
+		5A83F4BC272DD17000C66288 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5A83F4BB272DD17000C66288 /* main.cpp */; };
+		5AAFC998272948C300752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC997272948C300752199 /* main.cpp */; };
+		5AAFC9A52729492100752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9A42729492100752199 /* main.cpp */; };
+		5AAFC9B0272949DE00752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9AF272949DE00752199 /* main.cpp */; };
+		5AAFC9BB27294C6500752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9BA27294C6500752199 /* main.cpp */; };
+		5AAFC9C627294DBF00752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9C527294DBF00752199 /* main.cpp */; };
+		5AAFC9D127294E2C00752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9D027294E2C00752199 /* main.cpp */; };
+		5AAFC9DC27294EB700752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9DB27294EB700752199 /* main.cpp */; };
+		5AAFC9E727294F3000752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9E627294F3000752199 /* main.cpp */; };
+		5AAFC9F227294F8B00752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9F127294F8B00752199 /* main.cpp */; };
+		5AAFC9FD2729502100752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFC9FC2729502100752199 /* main.cpp */; };
+		5AAFCA082729505B00752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFCA072729505B00752199 /* main.cpp */; };
+		5AAFCA132729518A00752199 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5AAFCA122729518A00752199 /* main.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		5A0A7788272ADC5D00086C1B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A0A7793272AE2CA00086C1B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A0A779E272AE6AF00086C1B /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A42DCD12729C6E700D55E9A /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4B8B272C120300BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4B96272C196200BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BA1272C1B8800BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BAC272C1D0900BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BB7272C21BF00BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BC2272C239200BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BCD272C241C00BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BE3272C2E1500BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BEE272C2F6000BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A7E4BF9272C45E100BCB7EE /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5A83F4B7272DD17000C66288 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC992272948C300752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9A02729492100752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9AB272949DE00752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9B627294C6500752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9C127294DBF00752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9CC27294E2C00752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9D727294EB700752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9E227294F3000752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9ED27294F8B00752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFC9F82729502100752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFCA032729505B00752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+		5AAFCA0E2729518A00752199 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		5A0A778A272ADC5D00086C1B /* Print Diamond using Stars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Diamond using Stars"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A0A778C272ADC5E00086C1B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A0A7795272AE2CA00086C1B /* print diamond method 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "print diamond method 2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A0A7797272AE2CA00086C1B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A0A77A0272AE6AF00086C1B /* Print Hollow Diamond using Stars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Hollow Diamond using Stars"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A0A77A2272AE6AF00086C1B /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A42DCD32729C6E700D55E9A /* Pattern - 5 Palindromic pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Pattern - 5 Palindromic pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A42DCD52729C6E700D55E9A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4B8D272C120300BCB7EE /* Print Hollow Diamond Inscribed in a Rectangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Hollow Diamond Inscribed in a Rectangle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4B8F272C120300BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4B98272C196200BCB7EE /* Print Solid Rhombus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Solid Rhombus"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4B9A272C196200BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BA3272C1B8800BCB7EE /* Print Hollow Rhombus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Hollow Rhombus"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BA5272C1B8800BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BAE272C1D0900BCB7EE /* Pyramid pattern for Numbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Pyramid pattern for Numbers"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BB0272C1D0900BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BB9272C21BF00BCB7EE /* method 2 of pyramid pattern using numbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "method 2 of pyramid pattern using numbers"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BBB272C21BF00BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BC4272C239200BCB7EE /* Pyramid Pattern for Numbers -2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Pyramid Pattern for Numbers -2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BC6272C239200BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BCF272C241C00BCB7EE /* Print Sold Butterfly Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Sold Butterfly Pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BD1272C241C00BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BE5272C2E1500BCB7EE /* Print Hollow Butterfly Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Hollow Butterfly Pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BE7272C2E1500BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BF0272C2F6000BCB7EE /* Print Pascal¶s Triangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Pascal¶s Triangle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BF2272C2F6000BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A7E4BFB272C45E100BCB7EE /* pascal triangle using arrays */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "pascal triangle using arrays"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A7E4BFD272C45E100BCB7EE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5A83F4B9272DD17000C66288 /* Zig-Zag Pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Zig-Zag Pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5A83F4BB272DD17000C66288 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC994272948C300752199 /* c++ topicwiese questions practice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "c++ topicwiese questions practice"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC997272948C300752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9A22729492100752199 /* Print a solid rectangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print a solid rectangle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9A42729492100752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9AD272949DE00752199 /* Print a hollow rectangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print a hollow rectangle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9AF272949DE00752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9B827294C6500752199 /* Print Half Pyramid Pattern using Stars */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Half Pyramid Pattern using Stars"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9BA27294C6500752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9C327294DBF00752199 /* Print an Inverted Half pyramid */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print an Inverted Half pyramid"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9C527294DBF00752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9CE27294E2C00752199 /* Print Half Pyramid after 180 degree rotation */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Half Pyramid after 180 degree rotation"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9D027294E2C00752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9D927294EB700752199 /* Print Half Pyramid using numbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Half Pyramid using numbers"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9DB27294EB700752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9E427294F3000752199 /* Print Inverted Half Pyramid using numbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Inverted Half Pyramid using numbers"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9E627294F3000752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9EF27294F8B00752199 /* Print Half Pyramid using numbers - 2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Half Pyramid using numbers - 2"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9F127294F8B00752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFC9FA2729502100752199 /* Print Inverted Half Pyramid using numbers - 3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Inverted Half Pyramid using numbers - 3"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFC9FC2729502100752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFCA052729505B00752199 /* Print Floyd's Triangle */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print Floyd's Triangle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFCA072729505B00752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		5AAFCA102729518A00752199 /* Print 0-1 pattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Print 0-1 pattern"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5AAFCA122729518A00752199 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5A0A7787272ADC5D00086C1B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A0A7792272AE2CA00086C1B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A0A779D272AE6AF00086C1B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A42DCD02729C6E700D55E9A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4B8A272C120300BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4B95272C196200BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BA0272C1B8800BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BAB272C1D0900BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BB6272C21BF00BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BC1272C239200BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BCC272C241C00BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BE2272C2E1500BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BED272C2F6000BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BF8272C45E100BCB7EE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A83F4B6272DD17000C66288 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC991272948C300752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC99F2729492100752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9AA272949DE00752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9B527294C6500752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9C027294DBF00752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9CB27294E2C00752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9D627294EB700752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9E127294F3000752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9EC27294F8B00752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9F72729502100752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFCA022729505B00752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFCA0D2729518A00752199 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5A0A778B272ADC5E00086C1B /* Print Diamond using Stars */ = {
+			isa = PBXGroup;
+			children = (
+				5A0A778C272ADC5E00086C1B /* main.cpp */,
+			);
+			path = "Print Diamond using Stars";
+			sourceTree = "<group>";
+		};
+		5A0A7796272AE2CA00086C1B /* print diamond method 2 */ = {
+			isa = PBXGroup;
+			children = (
+				5A0A7797272AE2CA00086C1B /* main.cpp */,
+			);
+			path = "print diamond method 2";
+			sourceTree = "<group>";
+		};
+		5A0A77A1272AE6AF00086C1B /* Print Hollow Diamond using Stars */ = {
+			isa = PBXGroup;
+			children = (
+				5A0A77A2272AE6AF00086C1B /* main.cpp */,
+			);
+			path = "Print Hollow Diamond using Stars";
+			sourceTree = "<group>";
+		};
+		5A42DCD42729C6E700D55E9A /* Pattern - 5 Palindromic pattern */ = {
+			isa = PBXGroup;
+			children = (
+				5A42DCD52729C6E700D55E9A /* main.cpp */,
+			);
+			path = "Pattern - 5 Palindromic pattern";
+			sourceTree = "<group>";
+		};
+		5A7E4B8E272C120300BCB7EE /* Print Hollow Diamond Inscribed in a Rectangle */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4B8F272C120300BCB7EE /* main.cpp */,
+			);
+			path = "Print Hollow Diamond Inscribed in a Rectangle";
+			sourceTree = "<group>";
+		};
+		5A7E4B99272C196200BCB7EE /* Print Solid Rhombus */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4B9A272C196200BCB7EE /* main.cpp */,
+			);
+			path = "Print Solid Rhombus";
+			sourceTree = "<group>";
+		};
+		5A7E4BA4272C1B8800BCB7EE /* Print Hollow Rhombus */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BA5272C1B8800BCB7EE /* main.cpp */,
+			);
+			path = "Print Hollow Rhombus";
+			sourceTree = "<group>";
+		};
+		5A7E4BAF272C1D0900BCB7EE /* Pyramid pattern for Numbers */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BB0272C1D0900BCB7EE /* main.cpp */,
+			);
+			path = "Pyramid pattern for Numbers";
+			sourceTree = "<group>";
+		};
+		5A7E4BBA272C21BF00BCB7EE /* method 2 of pyramid pattern using numbers */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BBB272C21BF00BCB7EE /* main.cpp */,
+			);
+			path = "method 2 of pyramid pattern using numbers";
+			sourceTree = "<group>";
+		};
+		5A7E4BC5272C239200BCB7EE /* Pyramid Pattern for Numbers -2 */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BC6272C239200BCB7EE /* main.cpp */,
+			);
+			path = "Pyramid Pattern for Numbers -2";
+			sourceTree = "<group>";
+		};
+		5A7E4BD0272C241C00BCB7EE /* Print Sold Butterfly Pattern */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BD1272C241C00BCB7EE /* main.cpp */,
+			);
+			path = "Print Sold Butterfly Pattern";
+			sourceTree = "<group>";
+		};
+		5A7E4BE6272C2E1500BCB7EE /* Print Hollow Butterfly Pattern */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BE7272C2E1500BCB7EE /* main.cpp */,
+			);
+			path = "Print Hollow Butterfly Pattern";
+			sourceTree = "<group>";
+		};
+		5A7E4BF1272C2F6000BCB7EE /* Print Pascal¶s Triangle */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BF2272C2F6000BCB7EE /* main.cpp */,
+			);
+			path = "Print Pascal¶s Triangle";
+			sourceTree = "<group>";
+		};
+		5A7E4BFC272C45E100BCB7EE /* pascal triangle using arrays */ = {
+			isa = PBXGroup;
+			children = (
+				5A7E4BFD272C45E100BCB7EE /* main.cpp */,
+			);
+			path = "pascal triangle using arrays";
+			sourceTree = "<group>";
+		};
+		5A83F4BA272DD17000C66288 /* Zig-Zag Pattern */ = {
+			isa = PBXGroup;
+			children = (
+				5A83F4BB272DD17000C66288 /* main.cpp */,
+			);
+			path = "Zig-Zag Pattern";
+			sourceTree = "<group>";
+		};
+		5AAFC98B272948C300752199 = {
+			isa = PBXGroup;
+			children = (
+				5AAFC996272948C300752199 /* c++ topicwiese questions practice */,
+				5AAFC9A32729492100752199 /* Print a solid rectangle */,
+				5AAFC9AE272949DE00752199 /* Print a hollow rectangle */,
+				5AAFC9B927294C6500752199 /* Print Half Pyramid Pattern using Stars */,
+				5AAFC9C427294DBF00752199 /* Print an Inverted Half pyramid */,
+				5AAFC9CF27294E2C00752199 /* Print Half Pyramid after 180 degree rotation */,
+				5AAFC9DA27294EB700752199 /* Print Half Pyramid using numbers */,
+				5AAFC9E527294F3000752199 /* Print Inverted Half Pyramid using numbers */,
+				5AAFC9F027294F8B00752199 /* Print Half Pyramid using numbers - 2 */,
+				5AAFC9FB2729502100752199 /* Print Inverted Half Pyramid using numbers - 3 */,
+				5AAFCA062729505B00752199 /* Print Floyd's Triangle */,
+				5AAFCA112729518A00752199 /* Print 0-1 pattern */,
+				5A42DCD42729C6E700D55E9A /* Pattern - 5 Palindromic pattern */,
+				5A0A778B272ADC5E00086C1B /* Print Diamond using Stars */,
+				5A0A7796272AE2CA00086C1B /* print diamond method 2 */,
+				5A0A77A1272AE6AF00086C1B /* Print Hollow Diamond using Stars */,
+				5A7E4B8E272C120300BCB7EE /* Print Hollow Diamond Inscribed in a Rectangle */,
+				5A7E4B99272C196200BCB7EE /* Print Solid Rhombus */,
+				5A7E4BA4272C1B8800BCB7EE /* Print Hollow Rhombus */,
+				5A7E4BAF272C1D0900BCB7EE /* Pyramid pattern for Numbers */,
+				5A7E4BBA272C21BF00BCB7EE /* method 2 of pyramid pattern using numbers */,
+				5A7E4BC5272C239200BCB7EE /* Pyramid Pattern for Numbers -2 */,
+				5A7E4BD0272C241C00BCB7EE /* Print Sold Butterfly Pattern */,
+				5A7E4BE6272C2E1500BCB7EE /* Print Hollow Butterfly Pattern */,
+				5A7E4BF1272C2F6000BCB7EE /* Print Pascal¶s Triangle */,
+				5A7E4BFC272C45E100BCB7EE /* pascal triangle using arrays */,
+				5A83F4BA272DD17000C66288 /* Zig-Zag Pattern */,
+				5AAFC995272948C300752199 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5AAFC995272948C300752199 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC994272948C300752199 /* c++ topicwiese questions practice */,
+				5AAFC9A22729492100752199 /* Print a solid rectangle */,
+				5AAFC9AD272949DE00752199 /* Print a hollow rectangle */,
+				5AAFC9B827294C6500752199 /* Print Half Pyramid Pattern using Stars */,
+				5AAFC9C327294DBF00752199 /* Print an Inverted Half pyramid */,
+				5AAFC9CE27294E2C00752199 /* Print Half Pyramid after 180 degree rotation */,
+				5AAFC9D927294EB700752199 /* Print Half Pyramid using numbers */,
+				5AAFC9E427294F3000752199 /* Print Inverted Half Pyramid using numbers */,
+				5AAFC9EF27294F8B00752199 /* Print Half Pyramid using numbers - 2 */,
+				5AAFC9FA2729502100752199 /* Print Inverted Half Pyramid using numbers - 3 */,
+				5AAFCA052729505B00752199 /* Print Floyd's Triangle */,
+				5AAFCA102729518A00752199 /* Print 0-1 pattern */,
+				5A42DCD32729C6E700D55E9A /* Pattern - 5 Palindromic pattern */,
+				5A0A778A272ADC5D00086C1B /* Print Diamond using Stars */,
+				5A0A7795272AE2CA00086C1B /* print diamond method 2 */,
+				5A0A77A0272AE6AF00086C1B /* Print Hollow Diamond using Stars */,
+				5A7E4B8D272C120300BCB7EE /* Print Hollow Diamond Inscribed in a Rectangle */,
+				5A7E4B98272C196200BCB7EE /* Print Solid Rhombus */,
+				5A7E4BA3272C1B8800BCB7EE /* Print Hollow Rhombus */,
+				5A7E4BAE272C1D0900BCB7EE /* Pyramid pattern for Numbers */,
+				5A7E4BB9272C21BF00BCB7EE /* method 2 of pyramid pattern using numbers */,
+				5A7E4BC4272C239200BCB7EE /* Pyramid Pattern for Numbers -2 */,
+				5A7E4BCF272C241C00BCB7EE /* Print Sold Butterfly Pattern */,
+				5A7E4BE5272C2E1500BCB7EE /* Print Hollow Butterfly Pattern */,
+				5A7E4BF0272C2F6000BCB7EE /* Print Pascal¶s Triangle */,
+				5A7E4BFB272C45E100BCB7EE /* pascal triangle using arrays */,
+				5A83F4B9272DD17000C66288 /* Zig-Zag Pattern */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5AAFC996272948C300752199 /* c++ topicwiese questions practice */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC997272948C300752199 /* main.cpp */,
+			);
+			path = "c++ topicwiese questions practice";
+			sourceTree = "<group>";
+		};
+		5AAFC9A32729492100752199 /* Print a solid rectangle */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9A42729492100752199 /* main.cpp */,
+			);
+			path = "Print a solid rectangle";
+			sourceTree = "<group>";
+		};
+		5AAFC9AE272949DE00752199 /* Print a hollow rectangle */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9AF272949DE00752199 /* main.cpp */,
+			);
+			path = "Print a hollow rectangle";
+			sourceTree = "<group>";
+		};
+		5AAFC9B927294C6500752199 /* Print Half Pyramid Pattern using Stars */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9BA27294C6500752199 /* main.cpp */,
+			);
+			path = "Print Half Pyramid Pattern using Stars";
+			sourceTree = "<group>";
+		};
+		5AAFC9C427294DBF00752199 /* Print an Inverted Half pyramid */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9C527294DBF00752199 /* main.cpp */,
+			);
+			path = "Print an Inverted Half pyramid";
+			sourceTree = "<group>";
+		};
+		5AAFC9CF27294E2C00752199 /* Print Half Pyramid after 180 degree rotation */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9D027294E2C00752199 /* main.cpp */,
+			);
+			path = "Print Half Pyramid after 180 degree rotation";
+			sourceTree = "<group>";
+		};
+		5AAFC9DA27294EB700752199 /* Print Half Pyramid using numbers */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9DB27294EB700752199 /* main.cpp */,
+			);
+			path = "Print Half Pyramid using numbers";
+			sourceTree = "<group>";
+		};
+		5AAFC9E527294F3000752199 /* Print Inverted Half Pyramid using numbers */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9E627294F3000752199 /* main.cpp */,
+			);
+			path = "Print Inverted Half Pyramid using numbers";
+			sourceTree = "<group>";
+		};
+		5AAFC9F027294F8B00752199 /* Print Half Pyramid using numbers - 2 */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9F127294F8B00752199 /* main.cpp */,
+			);
+			path = "Print Half Pyramid using numbers - 2";
+			sourceTree = "<group>";
+		};
+		5AAFC9FB2729502100752199 /* Print Inverted Half Pyramid using numbers - 3 */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFC9FC2729502100752199 /* main.cpp */,
+			);
+			path = "Print Inverted Half Pyramid using numbers - 3";
+			sourceTree = "<group>";
+		};
+		5AAFCA062729505B00752199 /* Print Floyd's Triangle */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFCA072729505B00752199 /* main.cpp */,
+			);
+			path = "Print Floyd's Triangle";
+			sourceTree = "<group>";
+		};
+		5AAFCA112729518A00752199 /* Print 0-1 pattern */ = {
+			isa = PBXGroup;
+			children = (
+				5AAFCA122729518A00752199 /* main.cpp */,
+			);
+			path = "Print 0-1 pattern";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5A0A7789272ADC5D00086C1B /* Print Diamond using Stars */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A0A7790272ADC5E00086C1B /* Build configuration list for PBXNativeTarget "Print Diamond using Stars" */;
+			buildPhases = (
+				5A0A7786272ADC5D00086C1B /* Sources */,
+				5A0A7787272ADC5D00086C1B /* Frameworks */,
+				5A0A7788272ADC5D00086C1B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Diamond using Stars";
+			productName = "Print Diamond using Stars";
+			productReference = 5A0A778A272ADC5D00086C1B /* Print Diamond using Stars */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A0A7794272AE2CA00086C1B /* print diamond method 2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A0A7799272AE2CA00086C1B /* Build configuration list for PBXNativeTarget "print diamond method 2" */;
+			buildPhases = (
+				5A0A7791272AE2CA00086C1B /* Sources */,
+				5A0A7792272AE2CA00086C1B /* Frameworks */,
+				5A0A7793272AE2CA00086C1B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "print diamond method 2";
+			productName = "print diamond method 2";
+			productReference = 5A0A7795272AE2CA00086C1B /* print diamond method 2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A0A779F272AE6AF00086C1B /* Print Hollow Diamond using Stars */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A0A77A4272AE6AF00086C1B /* Build configuration list for PBXNativeTarget "Print Hollow Diamond using Stars" */;
+			buildPhases = (
+				5A0A779C272AE6AF00086C1B /* Sources */,
+				5A0A779D272AE6AF00086C1B /* Frameworks */,
+				5A0A779E272AE6AF00086C1B /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Hollow Diamond using Stars";
+			productName = "Print Hollow Diamond using Stars";
+			productReference = 5A0A77A0272AE6AF00086C1B /* Print Hollow Diamond using Stars */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A42DCD22729C6E700D55E9A /* Pattern - 5 Palindromic pattern */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A42DCD92729C6E700D55E9A /* Build configuration list for PBXNativeTarget "Pattern - 5 Palindromic pattern" */;
+			buildPhases = (
+				5A42DCCF2729C6E700D55E9A /* Sources */,
+				5A42DCD02729C6E700D55E9A /* Frameworks */,
+				5A42DCD12729C6E700D55E9A /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pattern - 5 Palindromic pattern";
+			productName = "Pattern - 5 Palindromic pattern";
+			productReference = 5A42DCD32729C6E700D55E9A /* Pattern - 5 Palindromic pattern */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4B8C272C120300BCB7EE /* Print Hollow Diamond Inscribed in a Rectangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4B93272C120300BCB7EE /* Build configuration list for PBXNativeTarget "Print Hollow Diamond Inscribed in a Rectangle" */;
+			buildPhases = (
+				5A7E4B89272C120300BCB7EE /* Sources */,
+				5A7E4B8A272C120300BCB7EE /* Frameworks */,
+				5A7E4B8B272C120300BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Hollow Diamond Inscribed in a Rectangle";
+			productName = "Print Hollow Diamond Inscribed in a Rectangle";
+			productReference = 5A7E4B8D272C120300BCB7EE /* Print Hollow Diamond Inscribed in a Rectangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4B97272C196200BCB7EE /* Print Solid Rhombus */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4B9C272C196200BCB7EE /* Build configuration list for PBXNativeTarget "Print Solid Rhombus" */;
+			buildPhases = (
+				5A7E4B94272C196200BCB7EE /* Sources */,
+				5A7E4B95272C196200BCB7EE /* Frameworks */,
+				5A7E4B96272C196200BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Solid Rhombus";
+			productName = "Print Solid Rhombus";
+			productReference = 5A7E4B98272C196200BCB7EE /* Print Solid Rhombus */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BA2272C1B8800BCB7EE /* Print Hollow Rhombus */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BA7272C1B8800BCB7EE /* Build configuration list for PBXNativeTarget "Print Hollow Rhombus" */;
+			buildPhases = (
+				5A7E4B9F272C1B8800BCB7EE /* Sources */,
+				5A7E4BA0272C1B8800BCB7EE /* Frameworks */,
+				5A7E4BA1272C1B8800BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Hollow Rhombus";
+			productName = "Print Hollow Rhombus";
+			productReference = 5A7E4BA3272C1B8800BCB7EE /* Print Hollow Rhombus */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BAD272C1D0900BCB7EE /* Pyramid pattern for Numbers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BB2272C1D0900BCB7EE /* Build configuration list for PBXNativeTarget "Pyramid pattern for Numbers" */;
+			buildPhases = (
+				5A7E4BAA272C1D0900BCB7EE /* Sources */,
+				5A7E4BAB272C1D0900BCB7EE /* Frameworks */,
+				5A7E4BAC272C1D0900BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pyramid pattern for Numbers";
+			productName = "Pyramid pattern for Numbers";
+			productReference = 5A7E4BAE272C1D0900BCB7EE /* Pyramid pattern for Numbers */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BB8272C21BF00BCB7EE /* method 2 of pyramid pattern using numbers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BBD272C21BF00BCB7EE /* Build configuration list for PBXNativeTarget "method 2 of pyramid pattern using numbers" */;
+			buildPhases = (
+				5A7E4BB5272C21BF00BCB7EE /* Sources */,
+				5A7E4BB6272C21BF00BCB7EE /* Frameworks */,
+				5A7E4BB7272C21BF00BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "method 2 of pyramid pattern using numbers";
+			productName = "method 2 of pyramid pattern using numbers";
+			productReference = 5A7E4BB9272C21BF00BCB7EE /* method 2 of pyramid pattern using numbers */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BC3272C239200BCB7EE /* Pyramid Pattern for Numbers -2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BC8272C239200BCB7EE /* Build configuration list for PBXNativeTarget "Pyramid Pattern for Numbers -2" */;
+			buildPhases = (
+				5A7E4BC0272C239200BCB7EE /* Sources */,
+				5A7E4BC1272C239200BCB7EE /* Frameworks */,
+				5A7E4BC2272C239200BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Pyramid Pattern for Numbers -2";
+			productName = "Pyramid Pattern for Numbers -2";
+			productReference = 5A7E4BC4272C239200BCB7EE /* Pyramid Pattern for Numbers -2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BCE272C241C00BCB7EE /* Print Sold Butterfly Pattern */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BD3272C241C00BCB7EE /* Build configuration list for PBXNativeTarget "Print Sold Butterfly Pattern" */;
+			buildPhases = (
+				5A7E4BCB272C241C00BCB7EE /* Sources */,
+				5A7E4BCC272C241C00BCB7EE /* Frameworks */,
+				5A7E4BCD272C241C00BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Sold Butterfly Pattern";
+			productName = "Print Sold Butterfly Pattern";
+			productReference = 5A7E4BCF272C241C00BCB7EE /* Print Sold Butterfly Pattern */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BE4272C2E1500BCB7EE /* Print Hollow Butterfly Pattern */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BE9272C2E1500BCB7EE /* Build configuration list for PBXNativeTarget "Print Hollow Butterfly Pattern" */;
+			buildPhases = (
+				5A7E4BE1272C2E1500BCB7EE /* Sources */,
+				5A7E4BE2272C2E1500BCB7EE /* Frameworks */,
+				5A7E4BE3272C2E1500BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Hollow Butterfly Pattern";
+			productName = "Print Hollow Butterfly Pattern";
+			productReference = 5A7E4BE5272C2E1500BCB7EE /* Print Hollow Butterfly Pattern */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BEF272C2F6000BCB7EE /* Print Pascal¶s Triangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BF4272C2F6000BCB7EE /* Build configuration list for PBXNativeTarget "Print Pascal¶s Triangle" */;
+			buildPhases = (
+				5A7E4BEC272C2F6000BCB7EE /* Sources */,
+				5A7E4BED272C2F6000BCB7EE /* Frameworks */,
+				5A7E4BEE272C2F6000BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Pascal¶s Triangle";
+			productName = "Print Pascal¶s Triangle";
+			productReference = 5A7E4BF0272C2F6000BCB7EE /* Print Pascal¶s Triangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A7E4BFA272C45E100BCB7EE /* pascal triangle using arrays */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A7E4BFF272C45E100BCB7EE /* Build configuration list for PBXNativeTarget "pascal triangle using arrays" */;
+			buildPhases = (
+				5A7E4BF7272C45E100BCB7EE /* Sources */,
+				5A7E4BF8272C45E100BCB7EE /* Frameworks */,
+				5A7E4BF9272C45E100BCB7EE /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "pascal triangle using arrays";
+			productName = "pascal triangle using arrays";
+			productReference = 5A7E4BFB272C45E100BCB7EE /* pascal triangle using arrays */;
+			productType = "com.apple.product-type.tool";
+		};
+		5A83F4B8272DD17000C66288 /* Zig-Zag Pattern */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5A83F4BF272DD17000C66288 /* Build configuration list for PBXNativeTarget "Zig-Zag Pattern" */;
+			buildPhases = (
+				5A83F4B5272DD17000C66288 /* Sources */,
+				5A83F4B6272DD17000C66288 /* Frameworks */,
+				5A83F4B7272DD17000C66288 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Zig-Zag Pattern";
+			productName = "Zig-Zag Pattern";
+			productReference = 5A83F4B9272DD17000C66288 /* Zig-Zag Pattern */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC993272948C300752199 /* c++ topicwiese questions practice */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC99B272948C300752199 /* Build configuration list for PBXNativeTarget "c++ topicwiese questions practice" */;
+			buildPhases = (
+				5AAFC990272948C300752199 /* Sources */,
+				5AAFC991272948C300752199 /* Frameworks */,
+				5AAFC992272948C300752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "c++ topicwiese questions practice";
+			productName = "c++ topicwiese questions practice";
+			productReference = 5AAFC994272948C300752199 /* c++ topicwiese questions practice */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9A12729492100752199 /* Print a solid rectangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9A62729492100752199 /* Build configuration list for PBXNativeTarget "Print a solid rectangle" */;
+			buildPhases = (
+				5AAFC99E2729492100752199 /* Sources */,
+				5AAFC99F2729492100752199 /* Frameworks */,
+				5AAFC9A02729492100752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print a solid rectangle";
+			productName = "Print a solid rectangle";
+			productReference = 5AAFC9A22729492100752199 /* Print a solid rectangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9AC272949DE00752199 /* Print a hollow rectangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9B1272949DE00752199 /* Build configuration list for PBXNativeTarget "Print a hollow rectangle" */;
+			buildPhases = (
+				5AAFC9A9272949DE00752199 /* Sources */,
+				5AAFC9AA272949DE00752199 /* Frameworks */,
+				5AAFC9AB272949DE00752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print a hollow rectangle";
+			productName = "Print a hollow rectangle";
+			productReference = 5AAFC9AD272949DE00752199 /* Print a hollow rectangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9B727294C6500752199 /* Print Half Pyramid Pattern using Stars */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9BC27294C6500752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid Pattern using Stars" */;
+			buildPhases = (
+				5AAFC9B427294C6500752199 /* Sources */,
+				5AAFC9B527294C6500752199 /* Frameworks */,
+				5AAFC9B627294C6500752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Half Pyramid Pattern using Stars";
+			productName = "Print Half Pyramid Pattern using Stars";
+			productReference = 5AAFC9B827294C6500752199 /* Print Half Pyramid Pattern using Stars */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9C227294DBF00752199 /* Print an Inverted Half pyramid */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9C727294DBF00752199 /* Build configuration list for PBXNativeTarget "Print an Inverted Half pyramid" */;
+			buildPhases = (
+				5AAFC9BF27294DBF00752199 /* Sources */,
+				5AAFC9C027294DBF00752199 /* Frameworks */,
+				5AAFC9C127294DBF00752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print an Inverted Half pyramid";
+			productName = "Print an Inverted Half pyramid";
+			productReference = 5AAFC9C327294DBF00752199 /* Print an Inverted Half pyramid */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9CD27294E2C00752199 /* Print Half Pyramid after 180 degree rotation */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9D227294E2C00752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid after 180 degree rotation" */;
+			buildPhases = (
+				5AAFC9CA27294E2C00752199 /* Sources */,
+				5AAFC9CB27294E2C00752199 /* Frameworks */,
+				5AAFC9CC27294E2C00752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Half Pyramid after 180 degree rotation";
+			productName = "Print Half Pyramid after 180 degree rotation";
+			productReference = 5AAFC9CE27294E2C00752199 /* Print Half Pyramid after 180 degree rotation */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9D827294EB700752199 /* Print Half Pyramid using numbers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9DD27294EB700752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid using numbers" */;
+			buildPhases = (
+				5AAFC9D527294EB700752199 /* Sources */,
+				5AAFC9D627294EB700752199 /* Frameworks */,
+				5AAFC9D727294EB700752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Half Pyramid using numbers";
+			productName = "Print Half Pyramid using numbers";
+			productReference = 5AAFC9D927294EB700752199 /* Print Half Pyramid using numbers */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9E327294F3000752199 /* Print Inverted Half Pyramid using numbers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9E827294F3000752199 /* Build configuration list for PBXNativeTarget "Print Inverted Half Pyramid using numbers" */;
+			buildPhases = (
+				5AAFC9E027294F3000752199 /* Sources */,
+				5AAFC9E127294F3000752199 /* Frameworks */,
+				5AAFC9E227294F3000752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Inverted Half Pyramid using numbers";
+			productName = "Print Inverted Half Pyramid using numbers";
+			productReference = 5AAFC9E427294F3000752199 /* Print Inverted Half Pyramid using numbers */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9EE27294F8B00752199 /* Print Half Pyramid using numbers - 2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9F327294F8B00752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid using numbers - 2" */;
+			buildPhases = (
+				5AAFC9EB27294F8B00752199 /* Sources */,
+				5AAFC9EC27294F8B00752199 /* Frameworks */,
+				5AAFC9ED27294F8B00752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Half Pyramid using numbers - 2";
+			productName = "Print Half Pyramid using numbers - 2";
+			productReference = 5AAFC9EF27294F8B00752199 /* Print Half Pyramid using numbers - 2 */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFC9F92729502100752199 /* Print Inverted Half Pyramid using numbers - 3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFC9FE2729502100752199 /* Build configuration list for PBXNativeTarget "Print Inverted Half Pyramid using numbers - 3" */;
+			buildPhases = (
+				5AAFC9F62729502100752199 /* Sources */,
+				5AAFC9F72729502100752199 /* Frameworks */,
+				5AAFC9F82729502100752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Inverted Half Pyramid using numbers - 3";
+			productName = "Print Inverted Half Pyramid using numbers - 3";
+			productReference = 5AAFC9FA2729502100752199 /* Print Inverted Half Pyramid using numbers - 3 */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFCA042729505B00752199 /* Print Floyd's Triangle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFCA092729505B00752199 /* Build configuration list for PBXNativeTarget "Print Floyd's Triangle" */;
+			buildPhases = (
+				5AAFCA012729505B00752199 /* Sources */,
+				5AAFCA022729505B00752199 /* Frameworks */,
+				5AAFCA032729505B00752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print Floyd's Triangle";
+			productName = "Print Floyd's Triangle";
+			productReference = 5AAFCA052729505B00752199 /* Print Floyd's Triangle */;
+			productType = "com.apple.product-type.tool";
+		};
+		5AAFCA0F2729518A00752199 /* Print 0-1 pattern */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5AAFCA142729518A00752199 /* Build configuration list for PBXNativeTarget "Print 0-1 pattern" */;
+			buildPhases = (
+				5AAFCA0C2729518A00752199 /* Sources */,
+				5AAFCA0D2729518A00752199 /* Frameworks */,
+				5AAFCA0E2729518A00752199 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Print 0-1 pattern";
+			productName = "Print 0-1 pattern";
+			productReference = 5AAFCA102729518A00752199 /* Print 0-1 pattern */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5AAFC98C272948C300752199 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1310;
+				TargetAttributes = {
+					5A0A7789272ADC5D00086C1B = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A0A7794272AE2CA00086C1B = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A0A779F272AE6AF00086C1B = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A42DCD22729C6E700D55E9A = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4B8C272C120300BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4B97272C196200BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BA2272C1B8800BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BAD272C1D0900BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BB8272C21BF00BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BC3272C239200BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BCE272C241C00BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BE4272C2E1500BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BEF272C2F6000BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A7E4BFA272C45E100BCB7EE = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5A83F4B8272DD17000C66288 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC993272948C300752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9A12729492100752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9AC272949DE00752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9B727294C6500752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9C227294DBF00752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9CD27294E2C00752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9D827294EB700752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9E327294F3000752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9EE27294F8B00752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFC9F92729502100752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFCA042729505B00752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+					5AAFCA0F2729518A00752199 = {
+						CreatedOnToolsVersion = 13.1;
+					};
+				};
+			};
+			buildConfigurationList = 5AAFC98F272948C300752199 /* Build configuration list for PBXProject "c++ topicwiese questions practice" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 5AAFC98B272948C300752199;
+			productRefGroup = 5AAFC995272948C300752199 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5AAFC993272948C300752199 /* c++ topicwiese questions practice */,
+				5AAFC9A12729492100752199 /* Print a solid rectangle */,
+				5AAFC9AC272949DE00752199 /* Print a hollow rectangle */,
+				5AAFC9B727294C6500752199 /* Print Half Pyramid Pattern using Stars */,
+				5AAFC9C227294DBF00752199 /* Print an Inverted Half pyramid */,
+				5AAFC9CD27294E2C00752199 /* Print Half Pyramid after 180 degree rotation */,
+				5AAFC9D827294EB700752199 /* Print Half Pyramid using numbers */,
+				5AAFC9E327294F3000752199 /* Print Inverted Half Pyramid using numbers */,
+				5AAFC9EE27294F8B00752199 /* Print Half Pyramid using numbers - 2 */,
+				5AAFC9F92729502100752199 /* Print Inverted Half Pyramid using numbers - 3 */,
+				5AAFCA042729505B00752199 /* Print Floyd's Triangle */,
+				5AAFCA0F2729518A00752199 /* Print 0-1 pattern */,
+				5A42DCD22729C6E700D55E9A /* Pattern - 5 Palindromic pattern */,
+				5A0A7789272ADC5D00086C1B /* Print Diamond using Stars */,
+				5A0A7794272AE2CA00086C1B /* print diamond method 2 */,
+				5A0A779F272AE6AF00086C1B /* Print Hollow Diamond using Stars */,
+				5A7E4B8C272C120300BCB7EE /* Print Hollow Diamond Inscribed in a Rectangle */,
+				5A7E4B97272C196200BCB7EE /* Print Solid Rhombus */,
+				5A7E4BA2272C1B8800BCB7EE /* Print Hollow Rhombus */,
+				5A7E4BAD272C1D0900BCB7EE /* Pyramid pattern for Numbers */,
+				5A7E4BB8272C21BF00BCB7EE /* method 2 of pyramid pattern using numbers */,
+				5A7E4BC3272C239200BCB7EE /* Pyramid Pattern for Numbers -2 */,
+				5A7E4BCE272C241C00BCB7EE /* Print Sold Butterfly Pattern */,
+				5A7E4BE4272C2E1500BCB7EE /* Print Hollow Butterfly Pattern */,
+				5A7E4BEF272C2F6000BCB7EE /* Print Pascal¶s Triangle */,
+				5A7E4BFA272C45E100BCB7EE /* pascal triangle using arrays */,
+				5A83F4B8272DD17000C66288 /* Zig-Zag Pattern */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5A0A7786272ADC5D00086C1B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A0A778D272ADC5E00086C1B /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A0A7791272AE2CA00086C1B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A0A7798272AE2CA00086C1B /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A0A779C272AE6AF00086C1B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A0A77A3272AE6AF00086C1B /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A42DCCF2729C6E700D55E9A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A42DCD62729C6E700D55E9A /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4B89272C120300BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4B90272C120300BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4B94272C196200BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4B9B272C196200BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4B9F272C1B8800BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BA6272C1B8800BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BAA272C1D0900BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BB1272C1D0900BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BB5272C21BF00BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BBC272C21BF00BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BC0272C239200BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BC7272C239200BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BCB272C241C00BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BD2272C241C00BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BE1272C2E1500BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BE8272C2E1500BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BEC272C2F6000BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BF3272C2F6000BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A7E4BF7272C45E100BCB7EE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A7E4BFE272C45E100BCB7EE /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5A83F4B5272DD17000C66288 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5A83F4BC272DD17000C66288 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC990272948C300752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC998272948C300752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC99E2729492100752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9A52729492100752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9A9272949DE00752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9B0272949DE00752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9B427294C6500752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9BB27294C6500752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9BF27294DBF00752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9C627294DBF00752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9CA27294E2C00752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9D127294E2C00752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9D527294EB700752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9DC27294EB700752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9E027294F3000752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9E727294F3000752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9EB27294F8B00752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9F227294F8B00752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFC9F62729502100752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFC9FD2729502100752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFCA012729505B00752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFCA082729505B00752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5AAFCA0C2729518A00752199 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5AAFCA132729518A00752199 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		5A0A778E272ADC5E00086C1B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A0A778F272ADC5E00086C1B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A0A779A272AE2CA00086C1B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A0A779B272AE2CA00086C1B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A0A77A5272AE6AF00086C1B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A0A77A6272AE6AF00086C1B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A42DCD72729C6E700D55E9A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A42DCD82729C6E700D55E9A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4B91272C120300BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4B92272C120300BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4B9D272C196200BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4B9E272C196200BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4BA8272C1B8800BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4BA9272C1B8800BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4BB3272C1D0900BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4BB4272C1D0900BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4BBE272C21BF00BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4BBF272C21BF00BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4BC9272C239200BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4BCA272C239200BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4BD4272C241C00BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4BD5272C241C00BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4BEA272C2E1500BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4BEB272C2E1500BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4BF5272C2F6000BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4BF6272C2F6000BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A7E4C00272C45E100BCB7EE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A7E4C01272C45E100BCB7EE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5A83F4BD272DD17000C66288 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5A83F4BE272DD17000C66288 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC999272948C300752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		5AAFC99A272948C300752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++17";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 12.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		5AAFC99C272948C300752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC99D272948C300752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9A72729492100752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9A82729492100752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9B2272949DE00752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9B3272949DE00752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9BD27294C6500752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9BE27294C6500752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9C827294DBF00752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9C927294DBF00752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9D327294E2C00752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9D427294E2C00752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9DE27294EB700752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9DF27294EB700752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9E927294F3000752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9EA27294F3000752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9F427294F8B00752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFC9F527294F8B00752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFC9FF2729502100752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFCA002729502100752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFCA0A2729505B00752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFCA0B2729505B00752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+		5AAFCA152729518A00752199 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		5AAFCA162729518A00752199 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 27HW28C5W5;
+				ENABLE_HARDENED_RUNTIME = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5A0A7790272ADC5E00086C1B /* Build configuration list for PBXNativeTarget "Print Diamond using Stars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A0A778E272ADC5E00086C1B /* Debug */,
+				5A0A778F272ADC5E00086C1B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A0A7799272AE2CA00086C1B /* Build configuration list for PBXNativeTarget "print diamond method 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A0A779A272AE2CA00086C1B /* Debug */,
+				5A0A779B272AE2CA00086C1B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A0A77A4272AE6AF00086C1B /* Build configuration list for PBXNativeTarget "Print Hollow Diamond using Stars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A0A77A5272AE6AF00086C1B /* Debug */,
+				5A0A77A6272AE6AF00086C1B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A42DCD92729C6E700D55E9A /* Build configuration list for PBXNativeTarget "Pattern - 5 Palindromic pattern" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A42DCD72729C6E700D55E9A /* Debug */,
+				5A42DCD82729C6E700D55E9A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4B93272C120300BCB7EE /* Build configuration list for PBXNativeTarget "Print Hollow Diamond Inscribed in a Rectangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4B91272C120300BCB7EE /* Debug */,
+				5A7E4B92272C120300BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4B9C272C196200BCB7EE /* Build configuration list for PBXNativeTarget "Print Solid Rhombus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4B9D272C196200BCB7EE /* Debug */,
+				5A7E4B9E272C196200BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BA7272C1B8800BCB7EE /* Build configuration list for PBXNativeTarget "Print Hollow Rhombus" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4BA8272C1B8800BCB7EE /* Debug */,
+				5A7E4BA9272C1B8800BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BB2272C1D0900BCB7EE /* Build configuration list for PBXNativeTarget "Pyramid pattern for Numbers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4BB3272C1D0900BCB7EE /* Debug */,
+				5A7E4BB4272C1D0900BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BBD272C21BF00BCB7EE /* Build configuration list for PBXNativeTarget "method 2 of pyramid pattern using numbers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4BBE272C21BF00BCB7EE /* Debug */,
+				5A7E4BBF272C21BF00BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BC8272C239200BCB7EE /* Build configuration list for PBXNativeTarget "Pyramid Pattern for Numbers -2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4BC9272C239200BCB7EE /* Debug */,
+				5A7E4BCA272C239200BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BD3272C241C00BCB7EE /* Build configuration list for PBXNativeTarget "Print Sold Butterfly Pattern" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4BD4272C241C00BCB7EE /* Debug */,
+				5A7E4BD5272C241C00BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BE9272C2E1500BCB7EE /* Build configuration list for PBXNativeTarget "Print Hollow Butterfly Pattern" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4BEA272C2E1500BCB7EE /* Debug */,
+				5A7E4BEB272C2E1500BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BF4272C2F6000BCB7EE /* Build configuration list for PBXNativeTarget "Print Pascal¶s Triangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4BF5272C2F6000BCB7EE /* Debug */,
+				5A7E4BF6272C2F6000BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A7E4BFF272C45E100BCB7EE /* Build configuration list for PBXNativeTarget "pascal triangle using arrays" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A7E4C00272C45E100BCB7EE /* Debug */,
+				5A7E4C01272C45E100BCB7EE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5A83F4BF272DD17000C66288 /* Build configuration list for PBXNativeTarget "Zig-Zag Pattern" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5A83F4BD272DD17000C66288 /* Debug */,
+				5A83F4BE272DD17000C66288 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC98F272948C300752199 /* Build configuration list for PBXProject "c++ topicwiese questions practice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC999272948C300752199 /* Debug */,
+				5AAFC99A272948C300752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC99B272948C300752199 /* Build configuration list for PBXNativeTarget "c++ topicwiese questions practice" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC99C272948C300752199 /* Debug */,
+				5AAFC99D272948C300752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9A62729492100752199 /* Build configuration list for PBXNativeTarget "Print a solid rectangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9A72729492100752199 /* Debug */,
+				5AAFC9A82729492100752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9B1272949DE00752199 /* Build configuration list for PBXNativeTarget "Print a hollow rectangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9B2272949DE00752199 /* Debug */,
+				5AAFC9B3272949DE00752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9BC27294C6500752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid Pattern using Stars" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9BD27294C6500752199 /* Debug */,
+				5AAFC9BE27294C6500752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9C727294DBF00752199 /* Build configuration list for PBXNativeTarget "Print an Inverted Half pyramid" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9C827294DBF00752199 /* Debug */,
+				5AAFC9C927294DBF00752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9D227294E2C00752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid after 180 degree rotation" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9D327294E2C00752199 /* Debug */,
+				5AAFC9D427294E2C00752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9DD27294EB700752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid using numbers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9DE27294EB700752199 /* Debug */,
+				5AAFC9DF27294EB700752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9E827294F3000752199 /* Build configuration list for PBXNativeTarget "Print Inverted Half Pyramid using numbers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9E927294F3000752199 /* Debug */,
+				5AAFC9EA27294F3000752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9F327294F8B00752199 /* Build configuration list for PBXNativeTarget "Print Half Pyramid using numbers - 2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9F427294F8B00752199 /* Debug */,
+				5AAFC9F527294F8B00752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFC9FE2729502100752199 /* Build configuration list for PBXNativeTarget "Print Inverted Half Pyramid using numbers - 3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFC9FF2729502100752199 /* Debug */,
+				5AAFCA002729502100752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFCA092729505B00752199 /* Build configuration list for PBXNativeTarget "Print Floyd's Triangle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFCA0A2729505B00752199 /* Debug */,
+				5AAFCA0B2729505B00752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5AAFCA142729518A00752199 /* Build configuration list for PBXNativeTarget "Print 0-1 pattern" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5AAFCA152729518A00752199 /* Debug */,
+				5AAFCA162729518A00752199 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5AAFC98C272948C300752199 /* Project object */;
+}
